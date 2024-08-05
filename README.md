@@ -2,8 +2,10 @@
 <h3 align="center">A driven developer from Colombia</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xoceq&label=Profile%20views&color=0e75b6&style=flat" alt="xoceq" />
+  <img src="https://i.giphy.com/media/l0HlJzoy0Ny7RwUqs/giphy.gif" alt="Soccer Ball" width="400" height="400" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);" />
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xoceq" alt="xoceq" /></a>
@@ -64,4 +66,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xoceq&label=Profile%20views&color=0e75b6&style=flat" alt="xoceq" />
 </p>
