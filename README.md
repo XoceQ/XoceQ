@@ -1,3 +1,5 @@
+<body style="background-color: #000000; color: #ffffff;">
+
 <h1 align="center">Hi 👋, I'm José</h1>
 <h3 align="center">A driven developer from Colombia</h3>
 
