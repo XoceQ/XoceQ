@@ -2,9 +2,8 @@
 <h3 align="center">A driven developer from Colombia</h3>
 
 <p align="center">
-<img src="https://i.giphy.com/media/l0HlJzoy0Ny7RwUqs/giphy.gif" alt="Soccer Ball" width="400" height="400" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);" />
-<p>https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBjb3c2Mnp4dHptbDE5MTZiN3h2aWgxMGs3ZjJ6MDRrN2l4Mnk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfU9jWYzi1qIrmfLLy/giphy.gif</p>
-
+  <img src="[https://i.giphy.com/media/l0HlJzoy0Ny7RwUqs/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBjb3c2Mnp4dHptbDE5MTZiN3h2aWgxMGs3ZjJ6MDRrN2l4Mnk0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PfU9jWYzi1qIrmfLLy/giphy.gif)" alt="Soccer Ball" width="400" height="400" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0,0,0,0.1);" />
+</p>
 
 
 <p align="center">
