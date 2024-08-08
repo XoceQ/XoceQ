@@ -80,12 +80,9 @@
                     </a>
                 </p>
             </td>
-        </tr>
-        <td>
-            ## Contact Me
+             ## Contact Me
 - Email: [dcurbanxtreme@gmail.com](mailto:dcurbanxtreme@gmail.com)
-            
-        </td>
+        </tr>
     
     </table>
 </body>
