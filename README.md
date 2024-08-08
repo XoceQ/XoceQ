@@ -93,7 +93,6 @@
                         <span style="margin-left: 8px;">Buy Me a Coffee</span>
                     </a>
                 </p>
-               
             </td>
         </tr>
     </table>
