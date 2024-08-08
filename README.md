@@ -83,9 +83,6 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
                     </a>
                 </p>
-               <!-- Importa Bootstrap CSS en el <head> de tu HTML si no lo has hecho ya -->
-                
-                <!-- Botón de correo con imagen -->
                 <p align="center">
                     <a href="mailto:dcurbanxtreme@gmail.com" class="btn">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Icon.png" alt="Gmail" style="width: 40px; height: 40px;"/>
