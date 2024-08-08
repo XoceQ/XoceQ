@@ -1,3 +1,5 @@
+<!-- Importa Bootstrap CSS en el <head> de tu HTML si no lo has hecho ya -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
 <body style="background-color: #000000; color: #ffffff;">
     <h1 align="center">What's good? 👋, I'm José</h1>
     <table align="center">
@@ -81,10 +83,7 @@
                 </p>
                  <!-- Email Button -->
                 <p align="center">
-                    <a href="mailto:dcurbanxtreme@gmail.com">
-                       <!-- Importa Bootstrap CSS en el <head> de tu HTML si no lo has hecho ya -->
-                        <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-                        
+                    <a href="mailto:dcurbanxtreme@gmail.com"> 
                         <!-- Botón estilizado con Bootstrap -->
                         <button type="button" class="btn btn-success">
                             Email Me
