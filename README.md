@@ -80,7 +80,7 @@
                     </a>
                 </p>
                  <!-- Email Button -->
-                <p align="left">
+                <p align="center">
                     <a href="mailto:dcurbanxtreme@gmail.com">
                         <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
                             Email Me
