@@ -81,6 +81,11 @@
                 </p>
             </td>
         </tr>
+        <tr>
+            ## Contact Me
+- Email: [dcurbanxtreme@gmail.com](mailto:dcurbanxtreme@gmail.com)
+
+        </tr>
     </table>
 </body>
 
