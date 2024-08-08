@@ -7,10 +7,10 @@
                 <h3 align="left">Languages and Tools:</h3>
                 <p align="left">
                     <a href="https://www.arduino.cc/" target="blank" rel="noreferrer">
-                        <img src="https://cdn.worldvectorlogo.com/logos/arduino 1.svg" alt="arduino" width="40" height="40" />
+                        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
                     </a>
                     <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original wordmark.svg" alt="css3" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
                     </a>
                     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" />
