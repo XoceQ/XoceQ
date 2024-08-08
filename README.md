@@ -82,7 +82,20 @@
                  <!-- Email Button -->
                 <p align="center">
                     <a href="mailto:dcurbanxtreme@gmail.com">
-                        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+                        <button style="
+                        background-color: #4CAF50; /* Color de fondo */
+                        color: white; /* Color del texto */
+                        padding: 12px 24px; /* Espaciado interno */
+                        border: none; /* Sin borde */
+                        border-radius: 8px; /* Bordes redondeados */
+                        cursor: pointer; /* Mano al pasar el ratón */
+                        font-size: 16px; /* Tamaño de la fuente */
+                        font-weight: bold; /* Fuente en negrita */
+                        text-transform: uppercase; /* Texto en mayúsculas */
+                        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra del botón */
+                        transition: background-color 0.3s, transform 0.2s; /* Transiciones suaves */
+                        outline: none; /* Sin contorno al hacer clic */
+                        ">
                             Email Me
                         </button>
                     </a>
