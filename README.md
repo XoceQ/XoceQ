@@ -1,6 +1,11 @@
 <body style="background-color: #000000; color: #ffffff;">
     <h1 align="center">What's good? 👋, I'm José</h1>
     <table align="center">
+          <a href="mailto:dcurbanxtreme@gmail.com">
+  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+    Email Me
+  </button>
+</a>
         <tr>
             <!-- Second Column -->
             <td align="center" valign="top" width="50%">
@@ -82,15 +87,6 @@
             </td>
 
             
-        </tr>
-        <tr>
-        <td>
-         <a href="mailto:dcurbanxtreme@gmail.com">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-    Email Me
-  </button>
-</a>
-        </td>
         </tr>
     </table>
 </body>
