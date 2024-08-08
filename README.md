@@ -1,11 +1,6 @@
 <body style="background-color: #000000; color: #ffffff;">
     <h1 align="center">What's good? 👋, I'm José</h1>
     <table align="center">
-          <a href="mailto:dcurbanxtreme@gmail.com">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-    Email Me
-  </button>
-</a>
         <tr>
             <!-- Second Column -->
             <td align="center" valign="top" width="50%">
@@ -82,6 +77,14 @@
                     </a>
                     <a href="https://www.typescriptlang.org/" target="blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+                    </a>
+                </p>
+                 <!-- Email Button -->
+                <p align="left">
+                    <a href="mailto:dcurbanxtreme@gmail.com">
+                        <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+                            Email Me
+                        </button>
                     </a>
                 </p>
             </td>
