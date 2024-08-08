@@ -90,7 +90,6 @@
                      <!-- Botón para comprar un café -->
                     <a href="https://www.buymeacoffee.com/josefernanA" class="btn btn-outline-light" target="_blank" style="display: flex; align-items: center;">
                         <img src="https://img.icons8.com/ios/452/coffee.png" alt="Buy Me a Coffee" style="width: 40px; height: 40px;"/>
-                            <span style="margin-left: 8px;">Buy Me a Coffee</span>
                     </a>
                 </p>
             </td>
