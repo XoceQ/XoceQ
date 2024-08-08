@@ -85,7 +85,7 @@
                 </p>
                 <p align="center">
                     <a href="mailto:dcurbanxtreme@gmail.com" class="btn">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Icon.png" alt="Gmail" style="width: 40px; height: 40px;"/>
+                        <img src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" style="width: 40px; height: 40px;"/>
                     </a>
                 </p>
             </td>
