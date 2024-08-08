@@ -3,29 +3,6 @@
 <h1 align="center">Hi 👋, I'm José</h1>
 <table align="center">
   <tr>
-    <!-- First Column -->
-    <td align="center" valign="top" width="50%">
-      <h3 align="center">Connect with me:</h3>
-      <p align="center">
-        <a href="https://fb.com/kosefereve" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kosefereve" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/kosefereve" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kosefereve" height="30" width="40" />
-        </a>
-      </p>
-
-      <h3 align="center">📫 How to reach me:</h3>
-      <p align="center">dcurbanxtreme@gmail.com</p>
-
-      <h3 align="center">Support:</h3>
-      <p align="center">
-        <a href="https://www.buymeacoffee.com/josefernanA">
-          <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/josefernanA" />
-        </a>
-      </p>
-    </td>
-
     <!-- Second Column -->
     <td align="center" valign="top" width="50%">
       <h3 align="left">Languages and Tools:</h3>
@@ -46,16 +23,6 @@
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjcyd2I3b29sMzg5ZXlrYjhibm00dGVpdGpvenNueXo3ZXI5dDE0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DB5mYr57xJ2IyHiGj4/giphy.gif" alt="Soccer Ball" />
       </p>
 
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xoceq&show_icons=true&locale=en&layout=compact" alt="xoceq" />
-      </p>
-
-      <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=xoceq&show_icons=true&locale=en" alt="xoceq" />
-      </p>
-
-      <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xoceq&" alt="xoceq" />
       </p>
     </td>
   </tr>
