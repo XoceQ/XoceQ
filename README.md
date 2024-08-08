@@ -1,5 +1,5 @@
 <body style="background-color: #000000; color: #ffffff;">
-    <h1 align="center">what's good? 👋, I'm José</h1>
+    <h1 align="center">What's good? 👋, I'm José</h1>
     <table align="center">
         <tr>
             <!-- Second Column -->
