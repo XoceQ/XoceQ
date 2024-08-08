@@ -1,5 +1,7 @@
 <!-- Importa Bootstrap CSS en el <head> de tu HTML si no lo has hecho ya -->
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+
 <body style="background-color: #000000; color: #ffffff;">
     <h1 align="center">What's good? 👋, I'm José</h1>
     <table align="center">
@@ -81,9 +83,12 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
                     </a>
                 </p>
-                 <!-- Email Button -->
+               <!-- Importa Bootstrap CSS en el <head> de tu HTML si no lo has hecho ya -->
+                
+                <!-- Botón de correo con imagen -->
                 <p align="center">
-                    <a href="mailto:dcurbanxtreme@gmail.com"> 
+                    <a href="mailto:dcurbanxtreme@gmail.com" class="btn">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Icon.png" alt="Gmail" style="width: 40px; height: 40px;"/>
                     </a>
                 </p>
             </td>
