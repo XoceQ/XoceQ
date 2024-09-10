@@ -84,13 +84,10 @@
                     </a>
                 </p>
                 <p align="center">
-                    <a href="mailto:dcurbanxtreme@gmail.com" class="btn">
+                    <a href="mailto:iamatwup@gmail.com" class="btn">
                         <img src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" style="width: 40px; height: 40px;"/>
                     </a>
-                     <!-- Botón para comprar un café -->
-                    <a href="https://www.buymeacoffee.com/josefernanA" class="btn btn-outline-light" target="_blank" style="display: flex; align-items: center;">
-                        <img src="https://img.icons8.com/ios/452/coffee.png" alt="Buy Me a Coffee" style="width: 40px; height: 40px;"/>
-                    </a>
+                     
                 </p>
             </td>
         </tr>
