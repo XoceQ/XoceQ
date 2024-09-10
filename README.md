@@ -87,7 +87,6 @@
                     <a href="mailto:iamatwup@gmail.com" class="btn">
                         <img src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" style="width: 40px; height: 40px;"/>
                     </a>
-                     
                 </p>
             </td>
         </tr>
