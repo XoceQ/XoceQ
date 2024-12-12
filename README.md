@@ -64,9 +64,6 @@
                     <a href="https://www.oracle.com/" target="blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
                     </a>
-                    <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-                    </a>
                     <a href="https://www.php.net" target="blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
                     </a>
@@ -83,14 +80,7 @@
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
                     </a>
                 </p>
-                <p align="center">
-                    <a href="mailto:iamatwup@gmail.com" class="btn">
-                        <img src="https://img.icons8.com/ios/452/gmail.png" alt="Gmail" style="width: 40px; height: 40px;"/>
-                    </a>
-                     <a href="https://buymeacoffee.com/josefernanA" class="btn">
-                        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="width: 100px; height: 40px;"/>
-                    </a>
-                </p>
+                
             </td>
         </tr>
     </table>
