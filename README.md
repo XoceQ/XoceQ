@@ -79,6 +79,9 @@
                     <a href="https://spring.io/" target="blank" rel="noreferrer">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40" />
                     </a>
+                    <a href="https://aws.amazon.com/" target="blank" rel="noreferrer">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="40" height="40" />
+                    </a>
                 </p>
             </td>
         </tr>
