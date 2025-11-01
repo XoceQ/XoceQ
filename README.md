@@ -1,7 +1,7 @@
 # 🚀 What's good? 👋 I'm José
 
-**Senior Fullstack Developer | Telecom Engineer | DevOps-friendly**  
-📍 Bogotá, Colombia  
+**| Telecom Engineer | ☁️ Cloud Enthusiast  
+📍 Colombia  
 💼 Open to freelance & SaaS projects  
 
 ---
@@ -10,20 +10,7 @@
 
 | | | | |
 |:-:|:-:|:-:|:-:|
-| ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) | ![Laravel](https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="24"/> | <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="24"/> |
 | **JavaScript** | **Python** | **PHP** | **Laravel** |
-| ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg) | ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) |
+| <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="24"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="24"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="24"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="24"/> |
 | **Next.js** | **AWS** | **Linux** | **Postman** |
-
----
-
-### 🌐 Dashboard Snapshot
-
-```text
-┌────────────────────────────────────────┐
-│  📊 SaaS Analytics                     │
-│────────────────────────────────────────│
-│  🚀 Projects Completed      +120       │
-│  ☁️ SLA Uptime              99.9%      │
-│  💰 SaaS Revenue (month)    $150,000   │
-└────────────────────────────────────────┘
