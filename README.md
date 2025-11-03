@@ -2,7 +2,7 @@
 
 | Telecom Engineer | ☁️ Cloud Enthusiast  
 📍 Colombia  
-💼 Open to freelance & SaaS projects  
+💼 Open to freelance projects  
 
 ---
 
