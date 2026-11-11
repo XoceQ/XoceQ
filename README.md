@@ -1,18 +1,4 @@
-# 🚀 What's good? 👋 I'm José
-
-| Telecom Engineer | 🔐 Cybersecurity Enthusiast
-📍 Colombia  
-
-
----
-
-### 🧠 Languages & Tools
-
-|     |     |     |     |     |     |     |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 🌐 | 📡 | 🖧 | ☁️ | 🛡️ | 🤖 | 🐧 |
-| Networking | Telecom | Cisco | AWS | Cybersecurity | AI | Linux |
-|     |     |     |     |     |     |     |
-| 🐍 | 💻 | 🐳 | 🔧 | 🔀 | 📊 | 🗄️ |
-| Python | JavaScript | Docker | Git | DevOps | Monitoring | Databases |
+<p align="center">
+  <img src="assets/chill-pixel-art.png" width="100%" alt="Chill developer pixel art">
+</p>
 
