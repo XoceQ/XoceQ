@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1vTxOxrJyeZ_W1U7eSYM-4jJvXLvPJqZt" 
+  <img src="https://drive.google.com/file/d/1j3iaWtKN6z4bYApxbataPqq0S5mLnP18/view?usp=sharing" 
        width="100%" 
        alt="Chill developer pixel art">
 </p>
